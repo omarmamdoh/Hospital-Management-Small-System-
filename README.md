@@ -1,2 +1,2 @@
-# Hospital-Management-Small-System-
+# Hospital-Management-System-
 Small Hospital Management System Just for learning 
