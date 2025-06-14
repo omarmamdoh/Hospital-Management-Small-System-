@@ -278,17 +278,12 @@ The system uses default configurations, but you can modify:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
+- GitHub: [@omarmamdoh](https://github.com/omarmamdoh)
+  
 ## 🙏 Acknowledgments
 
 - React.js community for the excellent framework
@@ -302,7 +297,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/hospital-management-system/issues) page
+1. Check the [Issues](https://github.com/omarmamdoh/hospital-management-system/issues) page
 2. Create a new issue with detailed description
 3. Contact the development team
 
